@@ -1,0 +1,92 @@
+/*
+margin, border, padding, content
+*/
+
+body {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.opening_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selection_bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pin_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*:root {
+    --card_width: 250px;
+    --row_increment: 10px;
+    --card_border_radius: 16px;
+    --card_small: 26;
+    --card_med: 33;
+    --card_large: 45;
+}*/
+
+/*.buttons {
+    width: 10px;
+}
+
+.floating_button {
+    width: 10px;
+}*/
+
+/*.opening_container {
+    margin: 5px;
+
+    !*background-color: grey;*!
+}*/
+
+/*.vertical_container {
+    width: 500px;
+    vertical-align: middle;
+}*/
+
+/*.pin_container {
+    margin: 0;
+    padding: 0;
+    width: 80vw;
+    !*the position attribute is stacking all my stuff*!
+!*    left: 50%;
+    transform: translateX(-50%);*!
+
+    grid-template-columns: repeat(auto-fill, var(--card_width));
+    grid-auto-rows: var(--row_increment);
+    justify-content: center;*/
+
+    /*background-color: black;
+}
+*/
+
+/*
+
+.card {
+    padding: 0;
+    margin: 15px 10px;
+    border-radius: var(--card_border_radius);
+    !*
+    background-color: red;
+    *!
+}*/
